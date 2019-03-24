@@ -1,0 +1,8 @@
+standort_rest:
+  build: .
+  environment:
+    - ENV=PROD
+    - host=localhost
+    - db_port=27017
+    - rest_port=8085
+    - db=container

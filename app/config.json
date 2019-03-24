@@ -1,0 +1,7 @@
+{
+	"host":"localhost",
+	"dbPort":"27017",
+	"restPort":"67676",
+	
+	"db":"container"
+}
